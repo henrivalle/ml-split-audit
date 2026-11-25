@@ -1,0 +1,4 @@
+path,split,group_id
+samples/first.txt,train,session-a
+samples/copy.txt,test,session-b
+samples/another.txt,validation,session-a
